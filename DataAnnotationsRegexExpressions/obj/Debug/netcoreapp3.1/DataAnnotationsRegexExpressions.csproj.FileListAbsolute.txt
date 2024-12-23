@@ -1,0 +1,14 @@
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\bin\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.exe
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\bin\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.deps.json
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\bin\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.runtimeconfig.json
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\bin\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.runtimeconfig.dev.json
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\bin\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.dll
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\bin\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.pdb
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\obj\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\obj\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.AssemblyInfoInputs.cache
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\obj\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.AssemblyInfo.cs
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\obj\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\obj\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.sourcelink.json
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\obj\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.dll
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\obj\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.pdb
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\DataAnnotationsRegexExpressions\obj\Debug\netcoreapp3.1\DataAnnotationsRegexExpressions.genruntimeconfig.cache

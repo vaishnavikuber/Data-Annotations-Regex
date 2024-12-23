@@ -6,7 +6,9 @@ namespace DataAnnotationsRegexExpressions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("------------------User Details Validation--------------");
+            User.ValidateDetails();
+            
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\bin\Debug\netcoreapp3.1\Regexpression.exe
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\bin\Debug\netcoreapp3.1\Regexpression.deps.json
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\bin\Debug\netcoreapp3.1\Regexpression.runtimeconfig.json
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\bin\Debug\netcoreapp3.1\Regexpression.runtimeconfig.dev.json
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\bin\Debug\netcoreapp3.1\Regexpression.dll
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\bin\Debug\netcoreapp3.1\Regexpression.pdb
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\obj\Debug\netcoreapp3.1\Regexpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\obj\Debug\netcoreapp3.1\Regexpression.AssemblyInfoInputs.cache
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\obj\Debug\netcoreapp3.1\Regexpression.AssemblyInfo.cs
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\obj\Debug\netcoreapp3.1\Regexpression.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\obj\Debug\netcoreapp3.1\Regexpression.sourcelink.json
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\obj\Debug\netcoreapp3.1\Regexpression.dll
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\obj\Debug\netcoreapp3.1\Regexpression.pdb
+C:\Users\vaish\source\repos\DataAnnotationsRegexExpressions\Regex\obj\Debug\netcoreapp3.1\Regexpression.genruntimeconfig.cache

@@ -23,5 +23,55 @@ namespace Regexpression
             }
         }
 
+        public static void PatternMatch2(string str)
+        {
+            Regex regex = new Regex(@"a*d");
+            Match m = regex.Match(str);
+            if (m.Success)
+            {
+                Console.WriteLine($"Pattern matches : {m.Value}");
+
+            }
+            else
+            {
+                Console.WriteLine("Pattern does not match");
+            }
+        }
+
+
+        public static void PatternMatch3(string str)
+        {
+            Regex regex = new Regex(@"^My");
+            Match m = regex.Match(str);
+            if (m.Success)
+            {
+                Console.WriteLine($"Pattern matches : {m.Value}");
+
+            }
+            else
+            {
+                Console.WriteLine("Pattern does not match");
+            }
+        }
+
+        public static void PatternMatch4(string str)
+        {
+            Regex regex = new Regex(@"work$");
+            Match m = regex.Match(str);
+            if (m.Success)
+            {
+                Console.WriteLine($"Pattern matches : {m.Value}");
+
+            }
+            else
+            {
+                Console.WriteLine("Pattern does not match");
+            }
+        }
+
+
+
+
+
     }
 }
